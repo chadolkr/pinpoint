@@ -26,4 +26,7 @@ pipeline {
       }
     }
   }
+  environment {
+    N1 = 'V1'
+  }
 }
